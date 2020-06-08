@@ -2,8 +2,6 @@
 
 set -e
 
-#[ -d "$1" ] || exit
-
 # Lists all the icons names for the array in BladeIconsServiceProvider...
 
 TYPE=$1
