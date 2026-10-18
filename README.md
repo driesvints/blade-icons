@@ -559,10 +559,9 @@ For almost all use cases, your icon will be assuming the role of an image. This 
 
 If your icon has semantic meaning, using the title attribute will apply the following features to the SVG element:
 
-- Child element of `<title>` with a unique ID containing the value that was passed
+- A child `<title>` element containing the value that was passed
 - `title` attribute containing the value that was passed
 - `role="img"`
-- `aria-labelledby` to refer to the unique ID of the title element
 
 Example usage:
 
