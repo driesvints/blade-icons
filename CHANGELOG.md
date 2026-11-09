@@ -2,7 +2,14 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/blade-ui-kit/blade-icons/compare/1.10.1...1.x)
+## [Unreleased](https://github.com/blade-ui-kit/blade-icons/compare/1.11.0...1.x)
+
+## [1.11.0](https://github.com/blade-ui-kit/blade-icons/compare/1.10.1...1.11.0) - 2026-11-09
+
+* Drop support for Laravel 8–11 and PHP versions below 8.2 in https://github.com/driesvints/blade-icons/commit/9a6e9f0cd96f482d01d4c5c32166119c59e514fc
+* Add blade-meteocons by [@tempi-marathon](https://github.com/tempi-marathon) in https://github.com/driesvints/blade-icons/pull/291
+* Modify SVG examples to use 'size-6' class by [@Rattone](https://github.com/Rattone) in https://github.com/driesvints/blade-icons/pull/292
+* Fix accessibility docs to match title attribute behavior by [@dajiaohuang](https://github.com/dajiaohuang) in https://github.com/driesvints/blade-icons/pull/293
 
 ## [1.10.1](https://github.com/blade-ui-kit/blade-icons/compare/1.10.0...1.10.1) - 2026-06-30
 
